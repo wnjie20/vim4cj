@@ -5,6 +5,6 @@ Vim支持仓颉编程语言语法高亮的脚本。
 
 # 安装
 Linux
-将文件clone放至~/.vim中即可使用。
+将filetype.vim放入~/.vim中，cangjie.vim放入~/.vim/syntax中即可。
 
 
